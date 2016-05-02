@@ -1,0 +1,70 @@
+
+////////////////// ~* LaunchIntent *~//////////////////
+
+User: Alexa, open Ten Things To Know.
+Alexa: I've opened Ten Things To Know. Would you like to hear today's tech events, world events, or both?
+
+Case 1
+--------
+User: Tech || Technology
+Alexa: 
+	a) Business Insider has not released a list today.As of {date goes here},
+	b) The following are ten things in tech you should know for the day
+
+Case 2
+--------
+User: World || Current
+Alexa:
+	a) Business Insider has not released a list today. As of {date goes here},
+	b) The following are the 10 most important things happening in the world right now
+
+
+Case 3
+--------
+User: Both
+Alexa: 
+	As of {date goes here}, the following are the 10 most important things happening in the world right now
+
+	As of {date goes here}, the following are ten things in tech you should know for the day
+
+
+////////////////// ~* StopIntent *~//////////////////
+
+User: Stop.
+Alexa: Closing Ten Things To Know. Be sure to check back every day in order to stay in the know.
+
+////////////////// ~* CancelIntent *~//////////////////
+
+User: Enough.
+Alexa: A link to Business Insider's unabridged list can be found in the Alexa app. Is there anything else? 
+
+////////////////// ~* NoIntent *~//////////////////
+
+User: No.
+Alexa: Closing Ten Things To Know. Be sure to check back every day in order to stay in the know.
+
+////////////////// ~* YesIntent *~//////////////////
+
+User: Yes.
+Alexa: What can I do for you? Would you like to hear today's tech events, world events, or both?
+
+TechEventsIntent
+WorldEventsIntent
+AllEventsIntent
+AMAZON.NoIntent
+AMAZON.YesIntent
+AMAZON.HelpIntent
+AMAZON.CancelIntent
+AMAZON.StopIntent
+
+Get
+Give
+Tell
+Read
+Get me
+Give me 
+Tell me
+Read me
+I want
+I'd like 
+I would like

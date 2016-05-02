@@ -1,0 +1,176 @@
+AllEventsIntent all
+AllEventsIntent all events
+AllEventsIntent all of them
+AllEventsIntent both
+AllEventsIntent both lists
+AllEventsIntent both of them
+AllEventsIntent Get all events 
+AllEventsIntent Get all of the events
+AllEventsIntent Get all of them
+AllEventsIntent Get all the events
+AllEventsIntent Get both
+AllEventsIntent Get both lists
+AllEventsIntent Get both of them
+AllEventsIntent Get me all events
+AllEventsIntent Get me all of the events
+AllEventsIntent Get me all of them
+AllEventsIntent Get me all the events
+AllEventsIntent Get me both
+AllEventsIntent Get me both lists
+AllEventsIntent Get me both of them
+AllEventsIntent Give all of the events
+AllEventsIntent Give all of them
+AllEventsIntent Give all the events
+AllEventsIntent Give both
+AllEventsIntent Give both lists
+AllEventsIntent Give both of them
+AllEventsIntent Give me all events
+AllEventsIntent Give me all of the events
+AllEventsIntent Give me all of them
+AllEventsIntent Give me all the events
+AllEventsIntent Give me both 
+AllEventsIntent Give me both lists 
+AllEventsIntent Give me both of them
+AllEventsIntent I want all events
+AllEventsIntent I want all of the events
+AllEventsIntent I want all of them
+AllEventsIntent I want all the events
+AllEventsIntent I want both
+AllEventsIntent I want both lists
+AllEventsIntent I want both of them
+AllEventsIntent I would like all events
+AllEventsIntent I would like all of the events
+AllEventsIntent I would like all of them
+AllEventsIntent I would like all the events
+AllEventsIntent I would like both
+AllEventsIntent I would like both lists
+AllEventsIntent I would like both of them
+AllEventsIntent I'd like  both of them
+AllEventsIntent I'd like all events
+AllEventsIntent I'd like all of the events
+AllEventsIntent I'd like all of them
+AllEventsIntent I'd like all the events
+AllEventsIntent I'd like both
+AllEventsIntent I'd like both lists
+AllEventsIntent Read all events
+AllEventsIntent Read all of the events
+AllEventsIntent Read all of them
+AllEventsIntent Read all the events
+AllEventsIntent Read both
+AllEventsIntent Read both lists
+AllEventsIntent Read both of them
+AllEventsIntent Read me all events
+AllEventsIntent Read me all of the events
+AllEventsIntent Read me all of them
+AllEventsIntent Read me all the events
+AllEventsIntent Read me both
+AllEventsIntent Read me both lists
+AllEventsIntent Read me both of them
+AllEventsIntent Tell all the events
+AllEventsIntent Tell me all events
+AllEventsIntent Tell me all of the events
+AllEventsIntent Tell me all of them
+AllEventsIntent Tell me all the events
+AllEventsIntent Tell me both
+AllEventsIntent Tell me both lists
+AllEventsIntent Tell me both of them
+
+TechEventsIntent Get me the tech events
+TechEventsIntent Get me the tech list
+TechEventsIntent Get me the tech list
+TechEventsIntent Get me the technology list
+TechEventsIntent Get the tech events
+TechEventsIntent Get the tech list
+TechEventsIntent Get the technology events
+TechEventsIntent Get the technology list
+TechEventsIntent Give me the tech events
+TechEventsIntent Give me the tech list
+TechEventsIntent Give me the tech list
+TechEventsIntent Give me the technology list
+TechEventsIntent Give the tech events
+TechEventsIntent Give the tech list
+TechEventsIntent Give the technology events
+TechEventsIntent Give the technology list
+TechEventsIntent I want the tech events
+TechEventsIntent I want the tech list
+TechEventsIntent I want the tech list
+TechEventsIntent I want the technology list
+TechEventsIntent I would like the tech events
+TechEventsIntent I would like the tech list
+TechEventsIntent I would like the tech list
+TechEventsIntent I would like the technology list
+TechEventsIntent I'd like the tech events
+TechEventsIntent I'd like the tech list
+TechEventsIntent I'd like the tech list
+TechEventsIntent I'd like the technology list
+TechEventsIntent Read me the tech events
+TechEventsIntent Read me the tech list
+TechEventsIntent Read me the tech list
+TechEventsIntent Read me the technology list
+TechEventsIntent Read the tech events
+TechEventsIntent Read the tech list
+TechEventsIntent Read the technology events
+TechEventsIntent Read the technology list
+TechEventsIntent tech
+TechEventsIntent tech events
+TechEventsIntent tech list
+TechEventsIntent technology
+TechEventsIntent technology events
+TechEventsIntent technology list
+TechEventsIntent Tell me the tech events
+TechEventsIntent Tell me the tech list
+TechEventsIntent Tell me the tech list
+TechEventsIntent Tell me the technology list
+TechEventsIntent the former
+TechEventsIntent the tech events
+TechEventsIntent the tech list
+TechEventsIntent the technology events
+TechEventsIntent the technology list
+
+WorldEventsIntent current
+WorldEventsIntent current events
+WorldEventsIntent Get me the current events list
+WorldEventsIntent Get me the world events
+WorldEventsIntent Get me the world events list
+WorldEventsIntent Get me the world events list
+WorldEventsIntent Get the current events
+WorldEventsIntent Get the current events list
+WorldEventsIntent Get the world events
+WorldEventsIntent Get the world events list
+WorldEventsIntent Give me the current events list
+WorldEventsIntent Give me the world events
+WorldEventsIntent Give me the world events list
+WorldEventsIntent Give me the world events list
+WorldEventsIntent Give the current events
+WorldEventsIntent Give the current events list
+WorldEventsIntent Give the world events
+WorldEventsIntent Give the world events list
+WorldEventsIntent I want the current events list
+WorldEventsIntent I want the world events
+WorldEventsIntent I want the world events list
+WorldEventsIntent I want the world events list
+WorldEventsIntent I would like the current events list
+WorldEventsIntent I would like the world events
+WorldEventsIntent I would like the world events list
+WorldEventsIntent I would like the world events list
+WorldEventsIntent I'd like the current events list
+WorldEventsIntent I'd like the world events
+WorldEventsIntent I'd like the world events list
+WorldEventsIntent I'd like the world events list
+WorldEventsIntent Read me the current events list
+WorldEventsIntent Read me the world events
+WorldEventsIntent Read me the world events list
+WorldEventsIntent Read me the world events list
+WorldEventsIntent Read the current events
+WorldEventsIntent Read the current events list
+WorldEventsIntent Read the world events
+WorldEventsIntent Read the world events list
+WorldEventsIntent Tell me the current events list
+WorldEventsIntent Tell me the world events
+WorldEventsIntent Tell me the world events list
+WorldEventsIntent Tell me the world events list
+WorldEventsIntent the current events
+WorldEventsIntent the latter
+WorldEventsIntent the world events
+WorldEventsIntent world
+WorldEventsIntent world events
